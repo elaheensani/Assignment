@@ -1,0 +1,6 @@
+python-dotenv
+requests
+pypdf
+rank-bm25
+chromadb
+onnxruntime
